@@ -2,7 +2,7 @@
   "name": "character-sheet-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adavidson87.github.io/character-sheet-app",
+  "homepage": "https://Adavidson87.github.io/character-sheet-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
